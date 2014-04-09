@@ -3,7 +3,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+//За·Д
 const int MAX_SIZE = 100;
 
 void addMatrix(const int a[][MAX_SIZE], const int b[][MAX_SIZE], int c[][MAX_SIZE], int row, int col);
